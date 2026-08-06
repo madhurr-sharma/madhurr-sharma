@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Madhur Sharma
+# Hi 👋, I'm Madhusudan Sharma
 
-### Full Stack Web Developer • React • Next.js • Node.js • MongoDB
-
-Building scalable web applications and developer tools.
+### Full Stack Web Developer • React • Next.js • Express.js • Node.js • MongoDB
 
 <p>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
@@ -24,11 +22,10 @@ Building scalable web applications and developer tools.
 
 # 🚀 About Me
 
-- 💻 Full Stack Web Developer
+- 🎓 Bachelor of Computer Applications | Career Point University
+- 💻 Full Stack Web Developer | React • Next.js • Express.js • Node.js • MongoDB
 - 🌱 Currently learning **Data Structures & Algorithms using JavaScript**
 - 🚀 Building **production-ready SaaS applications**
-- 📚 Improving Backend Development & System Design
-- 🎯 Goal: Software Engineer at a Product-Based Company
 
 ---
 
@@ -140,27 +137,6 @@ API Monitoring Platform
 
 </p>
 
----
-
-# 📫 Connect With Me
-
-<p>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
 
 <div align="center">
 
