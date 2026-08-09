@@ -14,7 +14,7 @@
   <a href="https://github.com/madhurr-sharma">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-    <a href="https://leetcode.com/YOUR_USERNAME/">
+    <a href="https://leetcode.com/u/Madhurr_sharma/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
