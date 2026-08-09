@@ -5,7 +5,7 @@
 ### Full Stack Web Developer • React • Next.js • Express.js • Node.js • MongoDB
 
 <p>
-  <a href="[https://linkedin.com/in/madhurr-sharma">
+  <a href="https://linkedin.com/in/madhurr-sharma">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:madhusudansharma2324@gmail.com">
