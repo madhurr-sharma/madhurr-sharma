@@ -5,13 +5,13 @@
 ### Full Stack Web Developer • React • Next.js • Express.js • Node.js • MongoDB
 
 <p>
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/madhurr-sharma/)">
+  <a href="[https://linkedin.com/in/madhurr-sharma">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:madhusudansharma2324@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://YOUR_USERNAME.github.io">
+  <a href="https://madhurr-sharma.github.io">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
