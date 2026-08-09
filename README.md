@@ -5,7 +5,7 @@
 ### Full Stack Web Developer • React • Next.js • Express.js • Node.js • MongoDB
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/madhurr-sharma/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
