@@ -106,12 +106,14 @@ Smart Travel Discovery & Route Optimization Platform | [Live Link](https://tripl
 
 ### 📊 LeetCode Stats & Streak
 
+<!-- Card 1: Full LeetCode Stats (Most Popular & Reliable) -->
 <div align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/madhurr_sharma" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=madhurr_sharma&theme=dark" alt="LeetCode Stats" />
 </div>
 
 <br />
 
+<!-- Card 2: Detailed Stats & Streak Summary -->
 <div align="center">
-  <img src="https://leetcode-badge.vercel.app/api/users/madhurr_sharma" alt="LeetCode Streak Badge" />
+  <img src="https://leetcode-readme-streak-stats.vercel.app/api?user=madhurr_sharma&theme=dark" alt="LeetCode Streak Stats" />
 </div>
