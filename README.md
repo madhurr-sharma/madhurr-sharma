@@ -101,9 +101,3 @@ Smart Travel Discovery & Route Optimization Platform | [Live Link](https://tripl
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=madhurr-sharma&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-</div>
