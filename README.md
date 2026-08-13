@@ -96,20 +96,15 @@ Smart Travel Discovery & Route Optimization Platform | [Live Link](https://tripl
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub & Coding Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=madhurr-sharma&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhurr-sharma&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=madhurr-sharma&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Madhusudan's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhurr-sharma&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=madhurr-sharma&theme=github-dark&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=madhurr-sharma&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
