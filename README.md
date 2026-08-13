@@ -101,3 +101,17 @@ Smart Travel Discovery & Route Optimization Platform | [Live Link](https://tripl
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=madhurr-sharma&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
+---
+
+### 📊 LeetCode Stats & Streak
+
+<div align="center">
+  <img src="https://leetcode-stats-api.herokuapp.com/YOUR_LEETCODE_USERNAME" alt="LeetCode Stats" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://leetcode-badge.vercel.app/api/users/YOUR_LEETCODE_USERNAME" alt="LeetCode Streak Badge" />
+</div>
