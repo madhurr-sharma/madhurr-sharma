@@ -76,10 +76,56 @@
 
 ---
 
+# 🔥 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌍 <a href="https://triplogic-frontend-psi.vercel.app/">Trip Logic</a></h3>
+      <p><i>Smart Travel Discovery & Route Optimization Platform</i></p>
+      <ul>
+        <li>📍 <b>Place Discovery:</b> Find nearby spots & hidden gems easily.</li>
+        <li>🗺️ <b>Route Optimization:</b> Smart route planning for multiple spots.</li>
+        <li>🧭 <b>Trip Planner:</b> All-in-one workflow for smooth planning.</li>
+      </ul>
+      <a href="https://triplogic-frontend-psi.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 AuthHub</h3>
+      <p><i>Authentication as a Service Platform</i></p>
+      <ul>
+        <li>🔑 <b>Security:</b> JWT, OAuth 2.0 & Role-Based Access Control.</li>
+        <li>📧 <b>Features:</b> Email verification & password reset flows.</li>
+        <li>⚡ <b>Production-Ready:</b> Plug-and-play auth backend.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐞 DevInspect</h3>
+      <p><i>Developer Error Monitoring Platform</i></p>
+      <ul>
+        <li>📊 <b>Error Tracking:</b> JS runtime error logs & stack traces.</li>
+        <li>🌐 <b>Telemetry:</b> Captures browser info & network requests.</li>
+        <li>🔔 <b>Alerts:</b> Real-time dashboard & instant notifications.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 APIWatch</h3>
+      <p><i>API Monitoring & Uptime Analytics</i></p>
+      <ul>
+        <li>📈 <b>Monitoring:</b> Real-time uptime & response time tracking.</li>
+        <li>🚨 <b>Alerting System:</b> Instant email alerts on API downtime.</li>
+        <li>📊 <b>Analytics:</b> Health dashboard with execution logs.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 # 🔥 Current Projects
 
 ### 🌍 Trip Logic
-Smart Travel Discovery & Route Optimization Platform | [Live Link 🔗 ](https://triplogic-frontend-psi.vercel.app/)
+Smart Travel Discovery & Route Optimization Platform | [Live Link](https://triplogic-frontend-psi.vercel.app/)
 
 - **Nearby & Hidden Gems Discovery:** Discover popular spots and unexplored local places.
 - **Smart Discovery:** Personalize place recommendations based on user travel preferences.
