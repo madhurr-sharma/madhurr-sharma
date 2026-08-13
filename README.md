@@ -107,11 +107,11 @@ Smart Travel Discovery & Route Optimization Platform | [Live Link](https://tripl
 ### 📊 LeetCode Stats & Streak
 
 <div align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/YOUR_LEETCODE_USERNAME" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-api.herokuapp.com/madhurr_sharma" alt="LeetCode Stats" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://leetcode-badge.vercel.app/api/users/YOUR_LEETCODE_USERNAME" alt="LeetCode Streak Badge" />
+  <img src="https://leetcode-badge.vercel.app/api/users/madhurr_sharma" alt="LeetCode Streak Badge" />
 </div>
