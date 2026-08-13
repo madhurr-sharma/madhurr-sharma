@@ -93,18 +93,6 @@ Smart Travel Discovery & Route Optimization Platform | [Live Link](https://tripl
 
 - JavaScript (Advanced)
 - Data Structures & Algorithms
-- Docker
-- Redis
-- Backend Architecture
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Solve 300+ DSA Questions
-- ✅ Build 5 Production-Level SaaS Projects
-- ✅ Contribute Daily on GitHub
-- ✅ Become a Full Stack Developer
 
 ---
 
@@ -112,15 +100,15 @@ Smart Travel Discovery & Route Optimization Platform | [Live Link](https://tripl
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=madhurr-sharma&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhurr-sharma&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=madhurr-sharma&theme=github-dark&hide_border=true"/>
 
 </p>
 
