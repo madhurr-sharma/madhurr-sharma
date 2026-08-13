@@ -98,18 +98,7 @@ Smart Travel Discovery & Route Optimization Platform | [Live Link](https://tripl
 
 # 📊 GitHub & Coding Activity
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <br/>
-      <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=madhurr-sharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Madhusudan's Stats"/>
-    </td>
-    <td width="50%" align="center">
-      <br/>
-      <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=madhurr-sharma&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhurr-sharma&theme=tokyonight&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph" />
