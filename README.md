@@ -104,16 +104,10 @@ Smart Travel Discovery & Route Optimization Platform | [Live Link](https://tripl
 
 ---
 
-### 📊 LeetCode Stats & Streak
+### 📊 LeetCode Stats
 
-<!-- Main LeetCode Card (Fully Working) -->
 <div align="center">
-  <img src="https://leetcode-stats-card.vercel.app/get?username=madhurr_sharma&theme=dark" alt="LeetCode Stats" />
-</div>
-
-<br />
-
-<!-- Alternative Backup API (In case first one takes time to load) -->
-<div align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=madhurr_sharma&theme=dark" alt="LeetCode Stats Backup" />
+  <a href="https://leetcode.com/madhurr_sharma/">
+    <img src="https://img.shields.io/badge/LeetCode-madhurr__sharma-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  </a>
 </div>
