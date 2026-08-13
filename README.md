@@ -78,6 +78,17 @@
 
 # 🔥 Current Projects
 
+### 🌍 Trip Logic
+Smart Travel Discovery & Route Optimization Platform | [🔗 Live Demo](https://triplogic-frontend-psi.vercel.app/)
+
+- 📍 **Nearby & Hidden Gems Discovery:** Discover popular spots and unexplored local places.
+- 🎯 **Smart Discovery:** Personalize place recommendations based on user travel preferences.
+- 🗺️ **Route Optimization:** Automatically generate optimized routes between multiple destinations.
+- 🧭 **Unified Trip Planning:** Seamlessly plan and organize entire trips in one place.
+- ⚡ **Interactive UI:** Fast, responsive user interface built for effortless trip planning.
+
+---
+
 ### 🔐 AuthHub
 Authentication as a Service
 
